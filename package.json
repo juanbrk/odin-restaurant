@@ -1,0 +1,20 @@
+{
+  "name": "odin-restaurant",
+  "version": "1.0.0",
+  "description": "This is a website built as an excercise of 'The Odin project' fullstack javascript course in order to learn about webpack and ES6 modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanbrk/odin-restaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanbrk/odin-restaurant/issues"
+  },
+  "homepage": "https://github.com/juanbrk/odin-restaurant#readme"
+}
