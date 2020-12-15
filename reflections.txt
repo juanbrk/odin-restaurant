@@ -1,3 +1,12 @@
 RES-DEV-1 -----------------------
 Using npm init to create a package.json as a configuration file that npm uses to save all project information.
 
+RES-DEV-2: Webpack--------------------
+
+ A JavaScript module bundler is a tool that gets around the problem with a build step (which has access to the file system) to create a final output that is browser compatible (which doesn’t need access to the file system)
+
+ Webpack is simply a tool for bundling modules
+
+ When webpack runs, it goes through all of our files looking for any import statements and then compiles all of the code we need to run our site into a single file 
+
+ 
