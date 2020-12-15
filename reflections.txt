@@ -9,4 +9,11 @@ RES-DEV-2: Webpack--------------------
 
  When webpack runs, it goes through all of our files looking for any import statements and then compiles all of the code we need to run our site into a single file 
 
+
+ RES-DEV-3: Project structure ----------
+
+ There are a couple of key concepts to understanding how webpack works entry and output. Our entry file, then is the main application file that links (either directly or indirectly) to all of the other modules in our project. The output file is the compiled version . 
+
+ we'll tweak our directory structure slightly, separating the "source" code (./src) from our "distribution" code (./dist). The "source" code is the code that we'll write and edit. The "distribution" code is the minimized and optimized output of our build process that will eventually be loaded in the browser
+
  
